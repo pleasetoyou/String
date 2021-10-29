@@ -1,3 +1,1 @@
-專案MyBuy的流程描述
 
-先用AddMem註冊，會給一個token，然後用Login登入，有會員資料、網紅(會給一個key)、購物網站，可以利用Stock.html和Buy.html，來增減庫存，然後用Buy.html或Input.jsp作為購物車，接下來再想想新功能..........
